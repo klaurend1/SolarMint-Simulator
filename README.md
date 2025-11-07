@@ -1,9 +1,9 @@
 ---
 
 ```markdown
-# SolarMint Simulator
+# Renewable Energy Data Modeling System
 
-A Python-based simulation that converts sunlight intensity readings into digital tokens, demonstrating how renewable energy can be quantified and recorded using blockchain-inspired logic.
+A Python based simulation that converts sunlight intensity readings into digital tokens, demonstrating how renewable energy can be quantified and recorded using blockchain inspired logic.
 
 ## How It Works
 - Generates random sunlight intensity values (0–1000)
